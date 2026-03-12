@@ -72,23 +72,10 @@ I'm a Software Engineer specializing in **hybrid mobile applications** and full-
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam-S-bisht&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Shivam's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-S-bisht&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-S-bisht&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivam-S-bisht&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shivam-S-bisht&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
 </p>
 
 ---
