@@ -75,7 +75,7 @@ I'm a Software Engineer specializing in **hybrid mobile applications** and full-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivam-S-bisht&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shivam-S-bisht&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
 </p>
 
 ---
