@@ -5,11 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivambisht2001">
+  <a href="https://www.linkedin.com/in/shivambisht2001/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:bishtshivam096@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://shivam-live.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/shivam-S-bisht">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -62,7 +65,7 @@ I'm a Software Engineer specializing in **hybrid mobile applications** and full-
 |---|---|---|
 | [🤖 ForgePilot](https://github.com/shivam-S-bisht/forgepilot) | AI-powered developer tool | TypeScript |
 | [🎮 Portfolio Game](https://github.com/shivam-S-bisht/Portfolio-Game) | My portfolio in a game format | TypeScript |
-| [💼 Portfolio](https://github.com/shivam-S-bisht/Shivam-Singh-Bisht-Portfolio) | Personal portfolio built with React | TypeScript |
+| [💼 Portfolio](https://shivam-live.netlify.app/) | Personal portfolio built with React | TypeScript |
 | [🌍 REST Countries](https://github.com/shivam-S-bisht/rest-countries) | REST Countries explorer app | TypeScript |
 | [🔥 Firesafe](https://github.com/shivam-S-bisht/firesafe-new) | Firesafe website | TypeScript |
 | [📊 AI Stock Analyzer](https://github.com/shivam-S-bisht/ai-stock-analyzer) | Stock analysis with AI | TypeScript |
